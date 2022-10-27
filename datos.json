@@ -1,0 +1,22 @@
+[
+    {"nombre": "Lady Million EDP 50 ml", "id": 2010, "marca":"Paco Rabanne", "aroma":"Floral frutal", "notas":"Neroli, Naranja amarga, Frambuesa, Flor de naranjo, Jazmín, Miel, Pachuli","precio":"$21.285","img": "./img/1.jpg", "link":"https://www.mercadolibre.com.ar/paco-rabanne-lady-million-edp-50ml-para-mujer/p/MLA6072142"},
+
+    {"nombre": "212 VIP Rosé EDP 50", "id": 2014, "marca":"Carolina Herrera", "aroma":"Floral", "notas":"Champagne rosé, Pimienta rosa,Flor de melocotón, Rosa, Almizcl, Queenwood","precio":"$19.100","img": "./img/2.jpg", "link":"https://www.mercadolibre.com.ar/carolina-herrera-212-vip-rose-edp-50ml-para-mujer/p/MLA6138824"},
+
+    {"nombre": "Olympéa EDP 50 ml", "id": 2019, "marca":"Paco Rabanne", "aroma":"Oriental fougère", "notas":"Mandarina verde, Jazmín,Vainilla, Sal,Ámbar gris, Sándalo, Madera de Cachemira","precio":"$21.650","img": "./img/3.jpg", "link":"https://www.mercadolibre.com.ar/paco-rabanne-olympea-edp-50ml-para-mujer/p/MLA6140126"},
+
+    {"nombre": "Libre EDP 50 ml", "id": 2010, "marca":"Yves Saint Laurent", "aroma":"Floral frutal", "notas":"Absoluto de flor de naranjo, Absoluto de jazmín grandiflorum de la India, Lavanda","precio":"$23.367","img": "./img/4.jpg", "link":"https://www.mercadolibre.com.ar/yves-saint-laurent-libre-edp-50ml-para-mujer/p/MLA18722290"},
+
+    {"nombre": "Good Girl EDP 50 ml", "id": 2016, "marca":"Carolina Herrera", "aroma":"Ámbar floral", "notas":"Almendra, Café, Jazmín sambac, Nardos, Haba tonka, Cacao, Vainilla Fresca","precio":"$24.400","img": "./img/5.jpg", "link":"https://www.mercadolibre.com.ar/carolina-herrera-good-girl-edp-50ml-para-mujer/p/MLA6271500"},
+
+    {"nombre": "Live Luxe 100ml", "id": 2008, "marca":"Jennifer Lopez", "aroma":"Floral", "notas":"Jazmín,Vainilla, Sal,Ámbar gris, Sándalo,Jazmín, Miel, Frambuesa, sambac","precio":"$25.000","img": "./img/6.jpg", "link":"https://articulo.mercadolibre.com.ar/MLA-1140098374-perfume-live-luxe-jennifer-lopez-eau-de-parfum-x-100ml-_JM"},
+
+    {"nombre": "CH Women EDT 100 ml", "id": 2007, "marca":"Carolina Herrera", "aroma":"Floral oriental", "notas":"Bergamota, Pomelo, Limón de Sicilia, Melón, Canela, Sándalo, Cedro, Almizcle","precio":"$22.499","img": "./img/7.jpg", "link":"https://www.mercadolibre.com.ar/carolina-herrera-ch-women-edt-100ml-para-mujer/p/MLA6072056"},
+
+    {"nombre": "La Vie est Belle EDP 75 ml", "id": 2012, "marca":"Lancôme", "aroma":"Floral", "notas":"Casis, Flor de naranjo, Iris, Iris pallida, Jazmín, Mora, Pachuli, Pera, Praliné, Vainilla, anana","precio":"$24.300","img": "./img/8.jpg", "link":"https://www.mercadolibre.com.ar/lancme-la-vie-est-belle-edp-75ml-para-mujer/p/MLA6072128"},
+
+    {"nombre": "Black Opium Intense 90 ml", "id": 2014, "marca":"Yves Saint Laurent", "aroma":"Floral", "notas":"Café negro, Flor blanca, Vainilla, Jazmín,Vainilla, Sal,Ámbar gris,Cacao, Cafe","precio":"$32.990","img": "./img/9.jpg", "link":"https://www.mercadolibre.com.ar/yves-saint-laurent-black-opium-intense-edp-90ml-para-mujer/p/MLA6280239"},
+
+    {"nombre": "Light Blue", "id": 2001, "marca":"Dolce & Gabbana", "aroma":"Floral frutal", "notas":"Campanilla azul, Cedro de Sicilia, Manzana, Bambú, Jazmín, Rosa blanca, Almizcle, Madera de cidra","precio":"$27.410","img": "./img/10.jpg", "link":"https://www.mercadolibre.com.ar/dolce-gabbana-edt-100ml-para-mujer/p/MLA3821812"}
+
+   ]

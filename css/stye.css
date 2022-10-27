@@ -1,0 +1,194 @@
+.card {
+    margin: auto;
+}
+
+.botonMostrar {
+    background-color: palevioletred;
+}
+.botonOcultar {
+    background-color: palevioletred;
+}
+.botonAgregar {
+    background-color: palevioletred;
+}
+.carro {
+    margin-right: auto;
+}
+
+.cardImagen {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 90%;
+    height: 550px;
+}
+
+.headerImagen{
+width: 450px;
+height: 90%;
+}
+
+.cardPropio {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 90%;
+    height: 550px;
+}
+
+.cardTexto {
+    text-align: center;
+}
+
+.header__titulo {
+    background-color: #d87093;
+    font-size: x-large;
+    text-align: center;
+  }
+  .header__propio {
+    background-color: #d87093;
+  }
+  .header__buscar {
+    background-color: #ee82ee;
+  }
+  .header__links {
+    text-align:left;
+    margin-left: 400px;
+  }
+  .twitter {
+    color: #14171a;
+    font-size: 25px;
+    margin: 5px 5px 5px 5px;
+    text-align: center;
+  }
+  .twitter:hover {
+    color: white;
+    font-size: 27px;
+    margin: 5px 5px 5px 5px;
+  }
+  
+  .facebook {
+    color: #3b5998;
+    font-size: 25px;
+    margin: 5px 5px 5px 5px;
+    text-align: center;
+  }
+  .facebook:hover {
+    color: white;
+    font-size: 27px;
+    margin: 5px 5px 5px 5px;
+  }
+  
+  .whatsapp {
+    color: #ffffff;
+    font-size: 25px;
+    margin: 5px 5px 5px 5px;
+    text-align: center;
+  }
+  .whatsapp:hover {
+    color: white;
+    font-size: 27px;
+    margin: 5px 5px 5px 5px;
+  }
+  
+  .youtube {
+    color: #FF0000;
+    font-size: 25px;
+    margin: 5px 5px 5px 5px;
+    text-align: center;
+  }
+  .youtube:hover {
+    color: white;
+    font-size: 27px;
+    margin: 5px 5px 5px 5px;
+  }
+  
+  .instagram {
+    color: #C13584;
+    font-size: 25px;
+    margin: 5px 5px 5px 5px;
+    text-align: center;
+  }
+  .instagram:hover {
+    color: white;
+    font-size: 27px;
+    margin: 5px 5px 5px 5px;
+  }
+
+  .botonCarrito {
+    color: white;
+    background-color: red;
+    margin-right: 20px;
+    list-style:none;
+  }
+ /* nuevo */
+ .tablero {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: auto;
+  width: 400px;
+  height: 300px;
+}
+
+.cronometro {
+  width:400px;
+  height:100px;
+  margin: auto;
+  text-align:center; 
+}
+
+.publi-descripcion {
+  text-align: center;
+ 
+}
+
+.publi-titulo {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-weight: bold;
+}
+
+.img-publici {
+  display: flex;
+  justify-content: center;
+  width: 250px;
+  margin-top: 20px;
+  margin-left: 5px;
+
+}
+
+.publicidad {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+}
+.tituloLoader{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.loader {
+  margin: auto;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border: 8px solid rgba(0, 0, 0, 0.1);
+      width: 200px;
+      height: 200px;
+      border-radius: 100%;
+      border-left-color: rgb(255, 0, 208);
+      animation: spin 1s ease infinite;
+    }
+    @keyframes spin {
+      0% {
+        transform: rotate(0deg);
+      }
+      100% {
+        transform: rotate(360deg);
+      }
+}
+
+
